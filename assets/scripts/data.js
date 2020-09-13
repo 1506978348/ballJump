@@ -1,0 +1,1 @@
+window.gameState = 0;
